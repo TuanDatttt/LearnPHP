@@ -1,0 +1,32 @@
+Explode : Hàm cắt
+
+Contronllers : Bao nhiêu màn hình là bao nhiêu Contronllers
+
+File_exists : Hàm kiểm tra file có tồn tại hay không 
+
+method_exists ( $object, $method_name )
+
+Ghi chú :
+
+object: Bắt buộc. Đối tượng được kiểm tra
+mthod_name: Bắt buộc. Tên phương thức
+
+
+Class Object {
+    function method_name
+}
+
+$this->name : gán pt mới
+
+unset : loại bỏ 1 hoặc nhiều biến truyền vào 
+
+PHP đã cung cấp cú pháp if else toán tử 3 ngôn ngắn gọn
+{ condition ? true : false ; }
+
+
+call_user_func_array([tên lớp, hàm chạy],params)
+
+
+Model (Thư mục) : Sẽ chứa database . viết 1 trang php lấy database về
+View ( Thư mục ) : Chứa giao diện html , css , js
+
